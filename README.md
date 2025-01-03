@@ -16,21 +16,24 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Beberapa Fitur Project ini:
 
 *   Papan 5x5 yang interaktif untuk bermain Tic Tac Toe.
 *   Mode pemain ganda untuk bermain bersama teman.
 *   Antarmuka yang ramah dan mudah digunakan.
+*   Dapat Melakukan Save dan Load Game
+*   Reset Papan
+*   Kondisi Menang Klasik dengan 3x3 tetapi dalam lingkup 5x5.
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Download File Installernya disini:</p>
+<p>1. Download File Installernya <a href"https://github.com/xyukii/TICTACTOE/blob/main/T3/T3.rar">disini!</a></p>
+
+<p>2. Extract Filenya menggunakan <a href="https://www.7-zip.org/">7 Zip</a> atau <a href="https://www.win-rar.com/">Winrar</a></p>
 
 <p>2. Install</p>
 
 <p>3. Siap untuk Bermain!</p>
-
-<h2>🍰 Contribution Guidelines:</h2>
 
   
   
