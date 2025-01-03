@@ -42,3 +42,9 @@ Beberapa Fitur Project ini:
 Technologies used in the project:
 
 *   C#
+
+<h2>👥 Developer : Kelompok 8</h2>
+
+*  Hafizh Ahmad Al-Abror (707082330117)
+*  Dafi Fadhilah Sony (707082300162)
+*  Rizky Abdillah S (707082300102)
