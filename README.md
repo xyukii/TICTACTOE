@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg&amp;q=60&amp;w=3000&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D" alt="project-screenshot" width="700" height="400/">
+<img src="https://media.istockphoto.com/id/2170545773/id/foto/wooden-tic-tac-toe-game-on-a-table-classic-strategy-and-fun-for-all-ages.jpg?s=1024x1024&w=is&k=20&c=_2DLP8PTwoNKtEGrHhk2cfy-OZ0Qjf4kRNx9NRsGwT4=" alt="project-screenshot" width="700" height="400/">
 
 <img src="https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg&amp;q=60&amp;w=3000&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D" alt="project-screenshot" width="700" height="400/">
 
