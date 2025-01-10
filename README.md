@@ -8,9 +8,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co.com/P4FLDDf/Screenshot-2025-01-10-152432.png" alt="Screenshot-2025-01-10-152432">
+<img src="https://i.ibb.co.com/xFSB7zW/Screenshot-2025-01-10-153635.png" alt="Main Program">
 
-<img src="https://images.unsplash.com/photo-1602632003094-0494b73b7c4a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="project-screenshot" width="700" height="400/">
 
   
   
