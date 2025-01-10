@@ -2,13 +2,13 @@
 
 <p id="description">Repository ini berisi implementasi permainan Tic Tac Toe klasik dengan ukuran papan 5x5 untuk dimainkan di Windows. Permainan ini ditulis menggunakan bahasa pemrograman C# dan tidak memerlukan instalasi perangkat lunak tambahan.</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Demo Presentation</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AqDsrK4Qch0?si=GRoPXvn_YHrPEzdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[https://www.youtube.com/embed/AqDsrK4Qch0?si=GRoPXvn\_YHrPEzdJ](https://www.youtube.com/embed/AqDsrK4Qch0?si=GRoPXvn_YHrPEzdJ)
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://unsplash.com/photos/a-nintendo-wii-game-system-sitting-on-top-of-a-table-AZDMhQWurmQ" alt="project-screenshot" width="700" height="400/">
+<img src="https://i.ibb.co.com/P4FLDDf/Screenshot-2025-01-10-152432.png" alt="Screenshot-2025-01-10-152432">
 
 <img src="https://images.unsplash.com/photo-1602632003094-0494b73b7c4a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="project-screenshot" width="700" height="400/">
 
